@@ -20,3 +20,8 @@ User enters a message → model predicts Spam/Ham instantly.
 # Example Run
 Streamlit App:
 <img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ad41cf77-f515-4636-9225-b0814e9c3141" />
+
+# Files
+spam.ipynb → Main Python program
+spam.csv → SMS dataset
+README.md → Project documentation
