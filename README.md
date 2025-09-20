@@ -23,5 +23,7 @@ Streamlit App:
 
 # Files
 spam.ipynb → Main Python program
+
 spam.csv → SMS dataset
+
 README.md → Project documentation
